@@ -3,9 +3,6 @@ import "./styles.scss"
 
 const IndexPage = () => {
   return (
-    <script type="text/javascript" src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-      <div data-netlify-identity-menu></div>
-      <div data-netlify-identity-button>Login with Netlify Identity</div>
     <div className="container">
       <div className="columns">
         <div className="column">
